@@ -1,0 +1,112 @@
+{
+  "version": 1,
+  "base_track": "君に夢中!!",
+  "base_artist": "浪漫派マシュマロ",
+  "createdAt": "2026-02-08T15:04:55.525894Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Kimini Muchuu (君に夢中)",
+      "artist": "Hikaru Utada",
+      "has_synced": true,
+      "path": "select/01_Kimini_Muchuu_(君に夢中)_Hikaru_Utada.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "君に夢中",
+      "artist": "Hikaru Utada",
+      "has_synced": true,
+      "path": "select/02_君に夢中_Hikaru_Utada.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "君に夢中",
+      "artist": "宇多田ヒカル",
+      "has_synced": true,
+      "path": "select/03_君に夢中_宇多田ヒカル.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "君に夢中 (Live Version)",
+      "artist": "Hikaru Utada",
+      "has_synced": true,
+      "path": "select/04_君に夢中_(Live_Version)_Hikaru_Utada.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "君に夢中 (Live Version)",
+      "artist": "Utada, Hikaru",
+      "has_synced": true,
+      "path": "select/05_君に夢中_(Live_Version)_Utada,_Hikaru.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "君に夢中",
+      "artist": "Utada, Hikaru",
+      "has_synced": true,
+      "path": "select/06_君に夢中_Utada,_Hikaru.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "君に夢中 - Kimini Muchuu",
+      "artist": "Hikaru Utada",
+      "has_synced": true,
+      "path": "select/07_君に夢中_-_Kimini_Muchuu_Hikaru_Utada.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "君に夢中",
+      "artist": "Utada Hikaru",
+      "has_synced": true,
+      "path": "select/08_君に夢中_Utada_Hikaru.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "君に夢中 (Live Version)",
+      "artist": "宇多田ヒカル",
+      "has_synced": true,
+      "path": "select/09_君に夢中_(Live_Version)_宇多田ヒカル.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "君に夢中",
+      "artist": "宇多田光",
+      "has_synced": true,
+      "path": "select/10_君に夢中_宇多田光.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Rule (君に夢中) [Live 2023]",
+      "artist": "宇多田ヒカル",
+      "has_synced": true,
+      "path": "select/11_Rule_(君に夢中)_[Live_2023]_宇多田ヒカル.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Rule (君に夢中) (Live 2023)",
+      "artist": "Hikaru Utada",
+      "has_synced": true,
+      "path": "select/12_Rule_(君に夢中)_(Live_2023)_Hikaru_Utada.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "君に夢中!!",
+      "artist": "浪漫派マシュマロ",
+      "has_synced": false,
+      "path": "select/pl_01_君に夢中!!_浪漫派マシュマロ.txt"
+    }
+  ]
+}
